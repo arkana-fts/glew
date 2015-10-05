@@ -1,0 +1,5 @@
+common.props text eol=crlf
+*.sln text eol=crlf
+*.vcxproj text eol=crlf
+*.dsp text eol=crlf
+*.dsw text eol=crlf
